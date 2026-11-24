@@ -2,6 +2,10 @@
 <h3 align="center">Aspiring Developer | IT Undergraduate | Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasirufonseka&label=Profile%20views&color=0e75b6&style=flat" alt="sasirufonseka" /> </p>
+
+<p align="center">
+<a href="https://linkedin.com/in/sasiru-fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasiru-fonseka" height="30" width="40" /></a>
+</p>
 <hr></hr>
 
 <p>I'm an undergraduate interested in building practical digital solutions, exploring emerging technologies, and turning ideas into real-world projects.</p>
@@ -17,9 +21,7 @@
 - 🌱 Always learning, building, and improving.
 
 
-<p align="center">
-<a href="https://linkedin.com/in/sasiru-fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasiru-fonseka" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
