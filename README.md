@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sasiru Fonskea</h1>
-<h3 align="center">An aspiring developer passionate about building innovative solutions and exploring emerging technologies.</h3>
+<h3 align="center">Aspiring Developer | IT Undergraduate | Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasirufonseka&label=Profile%20views&color=0e75b6&style=flat" alt="sasirufonseka" /> </p>
 <hr></hr>
 
-- 🔭 I’m currently working on **Personal development projects**
+<p>I'm an undergraduate interested in building practical digital solutions, exploring emerging technologies, and turning ideas into real-world projects.</p>
 
-- 🌱 I’m currently learning **Python, Java, Data Science and modern development technologies**
+- 🎓 Studying Information Technology with an interest in Data Science.
 
-- 👯 I’m looking to collaborate on **Open-source projects and innovative tech ideas**
+- 💻 Exploring web development, mobile app development, and programming.
+
+- 🤖 Experimenting with AI-assisted development and modern development tools.
+
+- 🚀 Interested in entrepreneurship, technology, and building useful products.
+
+- 🌱 Always learning, building, and improving.
 
 
 <p align="center">
